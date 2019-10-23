@@ -1,0 +1,400 @@
+[{
+        "id": 50,
+        "hora": "2019-09-02T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 51,
+        "hora": "2019-09-02T17:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 52,
+        "hora": "2019-09-02T19:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 53,
+        "hora": "2019-09-02T22:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 54,
+        "hora": "2019-09-03T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 55,
+        "hora": "2019-09-03T17:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 56,
+        "hora": "2019-09-03T19:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 57,
+        "hora": "2019-09-03T22:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 58,
+        "hora": "2019-09-04T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 59,
+        "hora": "2019-09-04T18:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 60,
+        "hora": "2019-09-04T20:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 61,
+        "hora": "2019-09-04T22:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 62,
+        "hora": "2019-09-05T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 63,
+        "hora": "2019-09-05T18:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 64,
+        "hora": "2019-09-05T20:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 65,
+        "hora": "2019-09-06T22:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 66,
+        "hora": "2019-09-06T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    },
+    {
+        "id": 67,
+        "hora": "2019-09-06T22:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Entrada"
+        }
+    },
+    {
+        "id": 68,
+        "hora": "2019-09-06T12:05:30.123Z",
+        "latitud": "192.123000",
+        "longitud": "-59.332000",
+        "dispositivo": {
+            "id": 2,
+            "nombre": "Tablet de Empleado",
+            "ip": "127.0.2.1/32",
+            "mac": "00:00:00:a1:2b:cc",
+            "modelo": "Huawei ha7h",
+            "empleado": {
+                "id": 4,
+                "nombres": "Empleado2",
+                "apellidos": "Apellido2"
+            }
+        },
+        "evento": {
+            "nombre": "Salida"
+        }
+    }
+]
